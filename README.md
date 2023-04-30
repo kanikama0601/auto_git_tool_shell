@@ -2,6 +2,14 @@
 shellで簡単にできるやつ！  
 <br>
 <br>
+## ソフト一覧
+### service_maker.sh
+git自動化ソフト  
+### service_delete_tool.sh
+作成したサービスの削除  
+### service_checker.sh
+サービスの起動確認  
+<br>
 ## 使い方
 ### 0.sudoで起動
 ```
