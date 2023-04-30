@@ -2,7 +2,7 @@
 shellで簡単にできるやつ！  
 <br>
 <br>
-## ソフト一覧
+# ソフト一覧
 ### service_maker.sh
 git自動化ソフト  
 ### service_delete_tool.sh
@@ -10,7 +10,8 @@ git自動化ソフト
 ### service_checker.sh
 サービスの起動確認  
 <br>
-## 使い方
+# 使い方
+## service_maker.sh
 ### 0.sudoで起動
 ```
 sudo bash service_maker.sh  
@@ -23,3 +24,11 @@ sudo bash service_maker.sh
 ### 5..serviceのファイルを確認
 ### 6..shのファイルを確認
 ### 7.システムが起動してるかを確認
+<br>
+## service_delete_tool.sh
+### 作成したサービスを入力するだけ！
+<br>
+## service_checker.sh
+### 作成したサービスを入力するだけ！
+<br>
+※service_makerで作成したソフトのみ対応  
