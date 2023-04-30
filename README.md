@@ -1,5 +1,7 @@
 # auto_git_tool_shell
 shellで簡単にできるやつ！  
+一部ソース  
+https://github.com/kanikama0601/auto_git_tool  
 <br>
 <br>
 # ソフト一覧
