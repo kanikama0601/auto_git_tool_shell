@@ -27,10 +27,10 @@ sudo bash service_maker.sh
 ### 6..shのファイルを確認
 ### 7.システムが起動してるかを確認
 <br>
-## service_delete_tool.sh
-### 作成したサービスを入力するだけ！
+## service_delete_tool.sh  
+### 作成したサービスを入力するだけ！  
 <br>
-## service_checker.sh
-### 作成したサービスを入力するだけ！
+## service_checker.sh  
+### 作成したサービスを入力するだけ！  
 <br>
 ※service_makerで作成したソフトのみ対応  
