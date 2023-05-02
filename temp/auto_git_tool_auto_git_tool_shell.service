@@ -1,5 +1,5 @@
 [Unit]
-Description=auto git tool script service for js1
+Description=auto git tool script service for auto_git_tool_shell
 Documentation=
 After=networking.service
 
@@ -11,7 +11,7 @@ TimeoutStartSec=0
 Restart=on-failure
 RestartSec=30s
 #ExecStartPre=
-ExecStart=/usr/bin/auto_git_tool_js1.sh
+ExecStart=/usr/bin/auto_git_tool_auto_git_tool_shell.sh
 SyslogIdentifier=Diskutilization
 #ExecStop=
 
