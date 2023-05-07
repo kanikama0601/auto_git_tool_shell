@@ -1,7 +1,7 @@
 #!/bin/sh
 #program start
 
-echo "auto-git-tool service maker ver1.0"
+echo "auto-git-tool service maker ver1.3"
 sleep 3
 
 while :
