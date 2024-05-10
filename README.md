@@ -4,6 +4,8 @@ shellで簡単にできるやつ！
 一部ソース  
 https://github.com/kanikama0601/auto_git_tool  
 <br>
+注意:WSLの際はsystemdを有効化してから行ってください。  
+<br>
 <br>
 # ソフト一覧
 ### service_maker.sh
